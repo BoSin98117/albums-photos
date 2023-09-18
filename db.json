@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bo"
+    },
+    {
+      "name": "Gloria Waters",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Refined Rubber Fish",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Cotton Sausages",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7664765021192192",
+      "id": 2
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6756776191983616",
+      "id": 5
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=681684162838528",
+      "id": 6
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1995933719986176",
+      "id": 7
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3350628820582400",
+      "id": 10
+    }
+  ]
+}
